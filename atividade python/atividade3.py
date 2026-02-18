@@ -1,1 +1,5 @@
-nome =Input()
+nome = input("insira o seu nome")
+valor1 =float(input("insira o primeiro valor"))
+valor2 = float(input("insira o segundo valor"))
+print("ola,meu nome é", nome, " tenho o valor ", valor1 + valor2, " a receber")
+print(f"ola,meu nome é {nome} tenho o valor  {valor1 + valor2} a receber")
