@@ -23,4 +23,5 @@ if sobrecarga:
     print(F"huve sobrecarga no motor {acima_20} vezes")
 if alerta:
     print(F"alerta: mediçao ultrapassou 200 {acima_200} vezes")
+
             
